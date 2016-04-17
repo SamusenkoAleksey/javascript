@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "javascript courses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidina/javascript.git"
+  },
+  "author": "Aleksey Samusenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidina/javascript/issues"
+  },
+  "homepage": "https://github.com/sidina/javascript#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.2.0"
+  }
+}
