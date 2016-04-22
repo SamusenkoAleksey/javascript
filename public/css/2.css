@@ -1,0 +1,44 @@
+body {
+    font-family: 'Source Sans Pro', 'Lucida Grande', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: rgba(0,0,0,0.8);
+}
+html, body {
+    -webkit-font-smoothing: antialiased;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, img, ins, kbd, q, samp, small, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+Inherited from html.js
+html, body {
+    -webkit-font-smoothing: antialiased;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, img, ins, kbd, q, samp, small, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+
+}
