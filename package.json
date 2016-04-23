@@ -8,25 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sidina/javascript.git"
+    "url": "git+https://github.com/SamusenkoAleksey/javascript.git"
   },
+  "keywords": [
+    "js"
+  ],
   "author": "Aleksey Samusenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sidina/javascript/issues"
+    "url": "https://github.com/SamusenkoAleksey/javascript/issues"
   },
-  "homepage": "https://github.com/sidina/javascript#readme",
+  "homepage": "https://github.com/SamusenkoAleksey/javascript#readme",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.0",
-    "gulp-concat-css": "^2.2.0",
-    "gulp-cssmin": "^0.1.7",
-    "gulp-html-prettify": "0.0.1",
-    "gulp-imagemin": "^2.4.0",
-    "gulp-jade": "^1.1.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-stylus": "^2.3.1",
-    "gulp-watch": "^4.3.5",
-    "imagemin-pngquant": "^4.2.2"
+    "gulp-concat-css": "^2.2.0"
   }
 }
